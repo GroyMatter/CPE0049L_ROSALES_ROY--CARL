@@ -1,0 +1,6 @@
+*   39b0a67 Merge pull request #1 from GroyMatter/feature-bio
+|\  
+| * e0e3867 feat: added developer biography to readme
+|/  
+* 4b23d49 chore: initial project scaffolding and gitignore
+* 83ba0ce Initial commit
